@@ -16,4 +16,4 @@ while seconds > 0:
     else:
         m = result
 
-    print(f'{h}:{m}:{s}')
+    print(f'{h:02}:{m:02}:{s:02}')
